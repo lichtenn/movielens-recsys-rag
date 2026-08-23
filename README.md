@@ -73,4 +73,4 @@ The notebook must be placed in the **same directory** as the files in the `files
 | Folder / File | Contents |
 |---|---|
 | `TACD_project.ipynb` | Notebook including explanations and analysis (ipynb) |
-| `files_to_run/` | Supporting data and cached result files required to run the notebook |
+| `files_to_run.zip` | Supporting data and cached result files required to run the notebook |
